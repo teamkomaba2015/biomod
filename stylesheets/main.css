@@ -14,20 +14,13 @@ body {background: #fff; border-top: 3px solid #000}
 .header_logo img {float: right; margin-right: 30px}
 
 .blog_post {}
-p {color: #000; font-size: 15px; font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN"}
+p {color: #000; font-size: 15px; font-family:"Verdana", "Trebuchet MS"}
 
-h1,h2{font-family:"ヒラギノ角ゴ Pro W3",'Open Sans Condensed',"メイリオ",serif; font-weight: bolder}
-h3{font-family:serif; font-weight: normal}
-h4{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN","メイリオ",serif; font-weight: normal; color: #5F6061 ; font-size: 15px}
-h5{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN","メイリオ",serif; font-weight: normal; font-size: 15px}
-h6{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN",'Open Sans Condensed',"メイリオ",serif ; font-weight: normal; font-size: 14px}
-h7{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN",'Open Sans Condensed',"メイリオ",serif ; font-weight: normal; color: #a9a9a9; font-size: 18px}
-h8{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN",'Open Sans Condensed',"メイリオ",serif ; font-weight: normal; color: #EA5B5B; font-size: 30px}
-h9{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN",'Open Sans Condensed',"メイリオ",serif ; font-weight: normal; color: #5F6061; font-size: 21px}
-h10{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN",'Open Sans Condensed',"メイリオ",serif ; font-weight: normal; color: #5F6061; font-size: 15px}
-h11{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN",'Open Sans Condensed',"メイリオ",serif ; font-weight: normal; color: #191970; font-size: 16px}
-h12{font-family:"ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN",'Open Sans Condensed',"メイリオ",serif ; font-weight: normal; color: #EA5B5B; font-size: 24px}
 
+h1{font-family:"Verdana", "Trebuchet MS",serif ; font-weight: normal; color: #5F6061; font-size: 15px}
+h2{font-family:"Trebuchet MS",serif ; font-weight: normal; color: #191970; font-size: 16px}
+h3{font-family:"Verdana", "Trebuchet MS",serif ; font-weight: normal; color: #EA5B5B; font-size: 28px}
+h4{font-family:"Verdana", "Trebuchet MS", "serif" ; font-weight: normal; color: #5F6061; font-size: 20px}
 
 .heading_dots {background: url(../images/heading_dots_grey.png) repeat-x center}
 .heading_dots_grey {background: url(../images/heading_dots_grey.png) repeat-x center}
