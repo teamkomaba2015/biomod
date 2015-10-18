@@ -21,7 +21,7 @@ h1{font-family:"Verdana", "Trebuchet MS",serif ; font-weight: normal; color: #5F
 h2{font-family:"Trebuchet MS",serif ; font-weight: normal; color: #191970; font-size: 16px}
 h3{font-family:"Verdana", "Trebuchet MS",serif ; font-weight: normal; color: #EA5B5B; font-size: 28px}
 h4{font-family:"Verdana", "Trebuchet MS", "serif" ; font-weight: normal; color: #5F6061; font-size: 20px}
-h5{font-family:"Verdana", "Trebuchet MS", "serif" ; font-weight: normal; color: #006400; font-size: 24px}
+h5{font-family:"Verdana", "Trebuchet MS", "serif" ; font-weight: bolder; color: #5F6061; font-size: 24px}
 
 .heading_dots {background: url(../images/heading_dots_grey.png) repeat-x center}
 .heading_dots_grey {background: url(../images/heading_dots_grey.png) repeat-x center}
