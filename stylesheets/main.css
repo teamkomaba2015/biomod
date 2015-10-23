@@ -1,20 +1,18 @@
-
-
-body {background: #fff; border-top: 3px solid #000}
+body {background: #e0eeee; border-top: 0px solid #000}
 
 .row {width: 980px
     
 }
 
-.page_wrap {margin: 0 auto 25px; border-radius: 3px; background: #FFF}
+.page_wrap {margin: 0px auto 25px; border-radius: 0px; background: #FFF}
 
-.header_nav {background: #fff; padding: 20px 0}
+.header_nav {background: #e0eeee; padding: 15px 0 ;position: fixed !important; z-index: 1; }
 
 .header_logo {padding: 28px 0 0}
 .header_logo img {float: right; margin-right: 30px}
 
 .blog_post {}
-p {color: #000; font-size: 15px; font-family:"Verdana", "Trebuchet MS"}
+p {margin: 0px; color: #000; font-size: 15px; font-family:"Verdana", "Trebuchet MS"}
 
 
 h1{font-family:"Verdana", "Trebuchet MS",serif ; font-weight: normal; color: #5F6061; font-size: 15px}
@@ -26,10 +24,10 @@ h5{font-family:"Verdana", "Trebuchet MS", "serif" ; font-weight: bolder; color: 
 .heading_dots {background: url(../images/heading_dots_grey.png) repeat-x center}
 .heading_dots_grey {background: url(../images/heading_dots_grey.png) repeat-x center}
 .heading_bg {background:#FFF; padding-right: 10px}
-.heading_center_bg {background:#FFF; padding:0 10px}
+.heading_center_bg {margin: 0px; background:#FFF; padding:0 10px}
 
 .heading_supersize {font-size: 74px; text-align:center; font-weight: normal; line-height: normal; margin:0 0 10px}
-.heading_largesize {font-size: 44px; text-align:center; font-weight: normal}
+.heading_largesize {font-size: 44px; text-align:center; font-weight: normal; }
 
 .dropcap_green, 
 .dropcap_black {  
@@ -100,7 +98,7 @@ ul.flyout li a:hover, .nav-bar li ul li a:hover { background: #f4f4f4; color: #0
 
 /* footer menu */
 
-.footer_menu {text-align:center; border-top: 1px dashed #999; margin: 25px 0 0; padding: 20px 0}
+.footer_menu {text-align:center; border-top: 1px dashed #999; margin: 25px 0 0; padding: 20px 0;}
 .footer_menu li {display: inline; list-style: none; margin-right: 20px}
 .footer_menu li a {color: #00F}
 
